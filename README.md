@@ -1,0 +1,2 @@
+- Implements RAM monitoring functionality using vm_stat.
+- Provides real-time memory statistics on macOS systems.
